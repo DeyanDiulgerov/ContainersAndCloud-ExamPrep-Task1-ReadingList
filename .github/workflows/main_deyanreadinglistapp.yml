@@ -59,4 +59,4 @@ jobs:
           app-name: 'DeyanReadingListApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E880CC61F3CF4FAFA559B541F92156A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72DA60256DDF4C999AECD61A576795E5 }}
